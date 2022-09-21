@@ -23,7 +23,7 @@ int main()
     int scelta;
       do {
           
-          cout << "------------" << endl;
+          cout << "-------------" << endl;
           cout << "1. Crea un vettore" << endl;
           cout << "2. Utilizza gli indici per creare un vettore" << endl;
           cout << "3. Crea un vettore e stampa la somma" << endl;
